@@ -1,0 +1,46 @@
+#header {
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 16px;
+}
+
+h3 {
+    font-style: bolder;
+    font-size: 16px;
+}
+
+#currentTrainSchedule, #addTrain {
+    background-color: #188ed1;
+    font-style: bolder;
+    color: white;
+    padding-left: 20px;
+    border: 2px solid #188ed1;
+    vertical-align: baseline;
+}
+
+#dataupload, #datainput {
+    border: 1px solid #188ed1;
+    border-radius: 5px;
+}
+
+.form-group {
+}
+
+.btn-btn-primary {
+    margin-bottom: 20px;
+
+}
+
+#submit {
+    background-color:#188ed1;
+}
